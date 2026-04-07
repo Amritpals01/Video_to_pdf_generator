@@ -1,1 +1,1 @@
-Generate a video to pdf script 
+Generate a video to pdf 
