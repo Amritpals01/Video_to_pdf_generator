@@ -1,1 +1,1 @@
-Generate a video to pdf ..
+Generate a video to pdf .
